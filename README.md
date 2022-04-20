@@ -40,6 +40,8 @@
 - Thymeleaf
 
 ## Study
+- Micro Frontend
+- Module Federation
 - Refectoring
 - TDD : JEST
 - React
