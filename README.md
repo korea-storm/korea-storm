@@ -34,6 +34,8 @@
 - Cloud Service (AWS / GCP)
 - STON
 - Webpack / Grunt / Gulp
+- GraphQL / REST / gRpc
+- GraphQL (Not Supported - File upload)
 
 ## Etc.
 - JWT
