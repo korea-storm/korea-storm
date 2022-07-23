@@ -1,4 +1,4 @@
-# Frontend Developer...
+# Frontend 익혀오고 들어왔던 항목들...
 
 ## Skills
 - HTML, CSS
@@ -37,11 +37,11 @@
 - GraphQL / REST / gRpc
 - GraphQL (Not Supported - File upload)
 
-## Etc.
+## Etc. (Shllow)
 - JWT
 - Thymeleaf
 
-## Study
+## Study (Shllow)
 - Micro Frontend
 - Module Federation
 - Refectoring
